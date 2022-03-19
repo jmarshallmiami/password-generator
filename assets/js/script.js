@@ -1,5 +1,6 @@
 // Assignment code here
 
+// generatePassword function called by the writePassword function
 function generatePassword() {
   var lower = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"];
   var upper = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
@@ -30,9 +31,10 @@ function generatePassword() {
     return generatePassword();
   };
 
+  // generates new random characters of each selected criteria until the created password is the length requested by user 
   while (userPassword.length < characterLength) {
+
     // add user selection criteria array elements to userSelection array
-    console.log("run");
     if (addLowerCase) {
       var newString = userPassword.concat(lower[Math.floor(Math.random() * lower.length)]);
       userPassword = newString
