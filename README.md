@@ -1,6 +1,6 @@
 # Password Generator Starter Code
 
-![alt text](https://github.com/jmarshall/password-generator/main/start-screen.png "Password Generator start screen")
+![Password Generator start screen](images/start-screen.png )
 
 ## What is the Password Generator?
 
