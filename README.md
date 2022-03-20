@@ -37,7 +37,7 @@ For example if the user confirms they want an 8 character password with lowercas
 
 ## Try out the PASSWORD GENERATOR!
 
-Give the Password Generator a try [HERE](placeholder for GitPages) and make your own secure password today!!!
+Give the Password Generator a try [HERE](https://jmarshallmiami.github.io/password-generator/) and make your own secure password today!!!
 
 Check the [gitHub repo](placeholder for gitHub)  to look at the code.
 
