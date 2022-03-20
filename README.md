@@ -1,6 +1,6 @@
 # Password Generator Starter Code
 
-<img src = "./assets/images/start-screen.png" alt = "Password Generator start screen" width= "400">
+<img src = "./assets/images/start-screen.png" alt = "Password Generator start screen" width= "600">
 
 ## What is the Password Generator?
 
@@ -8,7 +8,9 @@ The Password Generator is exactly as the name implies a password generator. This
 
 ### Image of newly generated password
 
-![alt text](https://github.com/jmarshall/password-generator/assets/images/alert-message.png "Password Generate complete")
+<img src = "./assets/images/generate-complete.png" alt = "Password Generate complete" width= "600">
+
+![Password Generate complete](./assets/images/generate-complete.png )
 
 ### Screenshots of prompts
 
