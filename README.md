@@ -1,6 +1,6 @@
 # Password Generator Starter Code
 
-![Password Generator start screen](./assets/images/start-screen.png )
+<img src = "./assets/images/start-screen.png" alt = "Password Generator start screen" width="100">
 
 ## What is the Password Generator?
 
