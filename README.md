@@ -30,7 +30,7 @@ The application will not generate a password without the user confirming (by cli
 
 ### Sceenshot of alert shown when no character types are chosen
 
-![alt text](https://github.com/jmarshall/password-generator/assets/images/alert-message.png "Password Generate complete")
+![Alert Message](./assets/images/alert-message.png )
 
 
 ## Future Enhancements
