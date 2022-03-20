@@ -10,19 +10,16 @@ The Password Generator is exactly as the name implies a password generator. This
 
 <img src = "./assets/images/generate-complete.png" alt = "Password Generate complete" width= "600">
 
-![Password Generate complete](./assets/images/generate-complete.png )
 
 ### Screenshots of prompts
 
-![alt text](https://github.com/jmarshall/password-generator/assets/images/character-length.png "Prompt character length")
+<img src = "./assets/images/lowercase.png" alt = "Confirm lowercase letters" width= "600">
 
-![alt text](https://github.com/jmarshall/password-generator/assets/images/lowercase.png "Confirm lowercase letters")
+<img src = "./assets/images/uppercase.png" alt = "Confirm uppercase letters" width= "600">
 
-![alt text](https://github.com/jmarshall/password-generator/assets/images/uppercase.png "Confirm uppercase letters")
+<img src = "./assets/images/numbers.png" alt = "Confirm numbers" width= "600">
 
-![alt text](https://github.com/jmarshall/password-generator/assets/images/numbers.png "Confirm numbers")
-
-![alt text](https://github.com/jmarshall/password-generator/assets/images/special.png "Confirm special characters")
+<img src = "./assets/images/special.png" alt = "Confirm special characters" width= "600">
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -30,8 +27,7 @@ The application will not generate a password without the user confirming (by cli
 
 ### Sceenshot of alert shown when no character types are chosen
 
-![Alert Message](./assets/images/alert-message.png )
-
+<img src = "./assets/images/alert-message.png" alt = "Alert message" width= "600">
 
 ## Future Enhancements
 
