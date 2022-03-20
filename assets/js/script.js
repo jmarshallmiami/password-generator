@@ -14,7 +14,7 @@ function generatePassword() {
   var characterLength = parseInt(prompt("Choose a character length for your password between 8-128 characters:"));
 
   // make sure the user inputs number from 8-128
-  if (characterLength >= 128 || characterLength <= 8 || typeof (characterLength) !== "number") {
+  if (characterLength > 128 || characterLength < 8 || typeof (characterLength) !== "number" || characterLength === null) {
     alert("Read the dang instructions!");
     return generatePassword();
   };
