@@ -8,26 +8,27 @@ The Password Generator is exactly as the name implies a password generator. This
 
 ### Image of newly generated password
 
-![alt text](https://github.com/jmarshall/password-generator/main/generate-complete.png) "Password Generate complete")
+![alt text](https://github.com/jmarshall/password-generator/assets/images/alert-message.png "Password Generate complete")
 
 ### Screenshots of prompts
+
+![alt text](https://github.com/jmarshall/password-generator/assets/images/character-length.png "Prompt character length")
+
+![alt text](https://github.com/jmarshall/password-generator/assets/images/lowercase.png "Confirm lowercase letters")
+
+![alt text](https://github.com/jmarshall/password-generator/assets/images/uppercase.png "Confirm uppercase letters")
+
+![alt text](https://github.com/jmarshall/password-generator/assets/images/numbers.png "Confirm numbers")
+
+![alt text](https://github.com/jmarshall/password-generator/assets/images/special.png "Confirm special characters")
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The application will not generate a password without the user confirming (by clicking "OK") at least one of the character type specification and will continue to prompt if the user until at least one character type is chosen. 
 
 ### Sceenshot of alert shown when no character types are chosen
 
-![alt text](https://github.com/jmarshall/password-generator/main/generate-complete.png "Prompt character length")
-
-![alt text](https://github.com/jmarshall/password-generator/main/generate-complete.png "Confirm lowercase letters")
-
-![alt text](https://github.com/jmarshall/password-generator/main/generate-complete.png "Confirm uppercase letters")
-
-![alt text](https://github.com/jmarshall/password-generator/main/generate-complete.png "Confirm numbers")
-
-![alt text](https://github.com/jmarshall/password-generator/main/generate-complete.png "Confirm special characters")
-
-
-
+![alt text](https://github.com/jmarshall/password-generator/assets/images/alert-message.png "Password Generate complete")
 
 
 ## Future Enhancements
