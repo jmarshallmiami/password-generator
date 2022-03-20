@@ -1,6 +1,6 @@
 # Password Generator Starter Code
 
-![Password Generator start screen](images/start-screen.png )
+![Password Generator start screen](./assets/images/start-screen.png )
 
 ## What is the Password Generator?
 
